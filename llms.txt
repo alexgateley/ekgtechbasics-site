@@ -1,0 +1,42 @@
+# EKG Tech Basics
+
+> EKG Tech Basics is a free exam-prep app from Grip Theory LLC for the NHA CET, CCI CRAT and CCI CCT, with 681 practice questions, a rationale for every answer choice, and mock exams built to the official test plans.
+
+- Publisher: Grip Theory LLC
+- Clinical reviewer: Alex G, BSN, RN, CEN, CCRN, CMC, NREMT-P (https://icubasics.com/about.html)
+- Price: free today, with no account and no ads. A paid plan, Pro, starts in January 2027; the question of the day, the daily plan, the Reference and one mock exam stay free.
+- Platforms: Android (Google Play) and any web browser; the iPhone app is coming
+- Practice questions: 681, each with a rationale for every answer choice
+
+## Exams
+- NHA CET: 504 practice questions. Exam guide: https://ekgtechbasics.com/sheets/guide-nha-cet.html. Sample questions: https://ekgtechbasics.com/practice/cet.html
+- CCI CRAT: 351 practice questions. Exam guide: https://ekgtechbasics.com/sheets/guide-cci-crat.html. Sample questions: https://ekgtechbasics.com/practice/crat.html
+- CCI CCT: 544 practice questions. Exam guide: https://ekgtechbasics.com/sheets/guide-cci-cct.html. Sample questions: https://ekgtechbasics.com/practice/cct.html
+
+## Main pages
+- [Home](https://ekgtechbasics.com/): what the app covers
+- [Web app](https://ekgtechbasics.com/app/): the full question bank, free in any browser
+- [Sample questions](https://ekgtechbasics.com/practice/): questions with answers and rationales
+- [Cheat Sheets and exam guides](https://ekgtechbasics.com/sheets/): study summaries with sources
+- [Reference](https://ekgtechbasics.com/reference/): every calculator, lab group and quick card set on its own page
+
+## Cheat Sheets
+- [Electrode and Lead Placement](https://ekgtechbasics.com/sheets/ekg-lead-placement.html)
+- [Artifact and Lead Problems](https://ekgtechbasics.com/sheets/ekg-artifact-troubleshooting.html)
+- [Paper, Settings and Measurement](https://ekgtechbasics.com/sheets/ekg-paper-measurement.html)
+- [Analyzing a Rhythm Strip Step by Step](https://ekgtechbasics.com/sheets/ekg-rhythm-analysis-steps.html)
+- [AV Blocks, Bundle Branch Blocks and Pre-excitation](https://ekgtechbasics.com/sheets/ekg-av-blocks-conduction.html)
+- [Reading a 12-Lead](https://ekgtechbasics.com/sheets/ekg-twelve-lead-interpretation.html)
+- [Pacemakers and Implanted Devices on the ECG](https://ekgtechbasics.com/sheets/ekg-pacemakers-devices.html)
+- [Exercise and Pharmacologic Stress Testing](https://ekgtechbasics.com/sheets/ekg-stress-testing.html)
+- [Holter, Event and Patch Monitors](https://ekgtechbasics.com/sheets/ekg-ambulatory-monitoring.html)
+- [Telemetry Monitoring and Reporting](https://ekgtechbasics.com/sheets/ekg-telemetry-reporting.html)
+- [Safety, Compliance and Patient Care](https://ekgtechbasics.com/sheets/ekg-safety-patient-care.html)
+- [NHA CET Exam Guide](https://ekgtechbasics.com/sheets/guide-nha-cet.html)
+- [CCI CRAT Exam Guide](https://ekgtechbasics.com/sheets/guide-cci-crat.html)
+- [CCI CCT Exam Guide](https://ekgtechbasics.com/sheets/guide-cci-cct.html)
+
+## Reference
+- [Calculators](https://ekgtechbasics.com/calculators/): 10 pages. Working calculators with the formula and how to read the result
+- [Lab values](https://ekgtechbasics.com/labs/): 8 pages. Reference ranges in US and SI units
+- [Quick cards](https://ekgtechbasics.com/cards/): 1 pages. Bedside tables and checklists

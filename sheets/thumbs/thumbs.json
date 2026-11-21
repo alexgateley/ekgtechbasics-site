@@ -1,0 +1,146 @@
+{
+ "bls-cpr-choking": {
+  "hash": "fa655f78fc814f4e",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-ambulatory-monitoring": {
+  "hash": "bbd0c45cf6c12866",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-artifact-troubleshooting": {
+  "hash": "9fa9897d42301d82",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-av-blocks-conduction": {
+  "hash": "0613c86dc72b227b",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-lead-placement": {
+  "hash": "aea4138ae5a10589",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-pacemakers-devices": {
+  "hash": "1c48b7fdd91f265f",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-paper-measurement": {
+  "hash": "f75570c6aa29d190",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-rhythm-analysis-steps": {
+  "hash": "b1ea0242ab544331",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-safety-patient-care": {
+  "hash": "1ee61b2935e7a8d8",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-stress-testing": {
+  "hash": "8e98b106aa7ac180",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-telemetry-reporting": {
+  "hash": "3e4ccf71073b2eb4",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "ekg-twelve-lead-interpretation": {
+  "hash": "785aa1d8eadc2fb1",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-cci-cct": {
+  "hash": "b1fb4ab3901699ca",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-cci-crat": {
+  "hash": "8648f3d52aeb302e",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-nha-cet": {
+  "hash": "b28144e9121edf6f",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "rhythm-gallery": {
+  "hash": "072c1d626960e888",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ }
+}
